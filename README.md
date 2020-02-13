@@ -15,4 +15,3 @@ You have been provided a [JSON object](js/index.js) with all the necessary data 
 ## Stretch Goals
 
 * Try to integrate a button that can update content on the site with a click of a button.  You could build a similar data object with new values to help you test the click event.
-
